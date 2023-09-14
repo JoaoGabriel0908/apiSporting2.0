@@ -2,7 +2,7 @@
     Your API system for gambling.
 
 # Config
-    self.name = "NOME_ROLETA"  # NOME DA GAME
+    self.name = "NAME_GAME"  # NOME DA GAME
     self.chat_id = 'CHAT_ID' # CHAT ID - GET IN >> https://t.me/chatIDrobot
     self.token = 'TOKEN_BOT' # TOKEN BOT -  GET IN >> https://t.me/BotFather
     self.url_API = 'SPORTINGBET-API' # API - GET IN >> https://t.me/sportingbetapi_bot
