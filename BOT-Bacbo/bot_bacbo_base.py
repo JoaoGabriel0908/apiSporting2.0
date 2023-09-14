@@ -6,9 +6,8 @@ import json
 import csv
 
 class BOT_Bacbo:
-    
     def __init__(self):
-        self.game = "NAME_GAME" # NOME DA GAME
+        self.game = "NAME_GAME"  # NAME GAME
         self.chat_id = 'CHAT_ID' # CHAT ID - GET IN >> https://t.me/chatIDrobot
         self.token = 'TOKEN_BOT' # TOKEN BOT -  GET IN >> https://t.me/BotFather
         self.url_API = 'SPORTINGBET-API' # API - GET IN >> https://t.me/sportingbetapi_bot
