@@ -7,5 +7,6 @@
     self.token = 'TOKEN_BOT' # TOKEN BOT -  GET IN >> https://t.me/BotFather
     self.url_API = 'SPORTINGBET-API' # API - GET IN >> https://t.me/sportingbetapi_bot
     self.link = "[CADASTRE-SE AGORA!](https://sshortly1.com/JpRYM9)"
+
 # help
     https://t.me/mscodex
