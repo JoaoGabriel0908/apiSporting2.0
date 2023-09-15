@@ -218,7 +218,7 @@ class BOT_Spaceman:
                 for i in json_data:
                     results.append(float(i))
 
-                if check != results:
+                if check != results and len(results) > 5:
                     check = results
                     self.delete()
                     self.estrategy(results)
