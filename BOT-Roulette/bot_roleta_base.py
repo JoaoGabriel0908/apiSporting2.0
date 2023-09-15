@@ -130,7 +130,7 @@ class BOT_Roleta:
             text=(
                 f"""
 🎰  *ENTRADA CONFIRMADA* 🎰
-🎮  {self.name}
+🎮  {self.game}
 🎯  Entrar nas colunas {msg}
 ⚔️  Cobrir o ZERO 🟢
 🛟  Fazer {self.gales} proteções
