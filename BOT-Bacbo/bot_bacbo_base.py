@@ -164,7 +164,7 @@ class BOT_Bacbo:
 
     def estrategy(self, results):
         
-        print(datetime.datetime.now().strftime("%H:%M/%Y"), self.gam)
+        print(datetime.datetime.now().strftime("%H:%M/%Y"), self.game)
 
         if self.analisar == False:
             self.check_results(results[0])
