@@ -20,25 +20,23 @@ These are the games available at the moment. If the game you want is not on the 
 
 
 🎮   EVOLUTION  🎮
-        ✅ Bacbo
-        ✅ Football Studio
-        ✅ Football Studio Dice
-        ✅ Fan Tan
-        ✅ American Roulette
-        ✅ XXXTreme Lightning Roulette
-        ✅ Roleta Relampago
-        ✅ Roulette Live
-        ✅ Speed Roulette
-
+✅ Bacbo
+✅ Football Studio
+✅ Football Studio Dice
+✅ Fan Tan
+✅ American Roulette
+✅ XXXTreme Lightning Roulette
+✅ Roleta Relampago
+✅ Roulette Live
+✅ Speed Roulett
 
 🎮   PRAGMATIC   🎮
-        ✅ Dragon Tiger
-        ✅ Mega Wheel
-        ✅ Spaceman
-        ✅ Auto-Roulette 1
-
+✅ Dragon Tiger
+✅ Mega Wheel
+✅ Spaceman
+✅ Auto-Roulette 1
 🎮   PLAYTECH   🎮
-        ✅ Roleta Brasileira
+✅ Roleta Brasileira
 
 
 # Contact
