@@ -2,7 +2,7 @@
     Your API system for gambling.
 
 # Config
-    self.game = "NAME_GAME"  # NaME GAME
+    self.game = "NAME_GAME"  # NAME GAME
     self.chat_id = 'CHAT_ID' # CHAT ID - GET IN >> https://t.me/chatIDrobot
     self.token = 'TOKEN_BOT' # TOKEN BOT -  GET IN >> https://t.me/BotFather
     self.url_API = 'SPORTINGBET-API' # API - GET IN >> https://t.me/sportingbetapi_bot
