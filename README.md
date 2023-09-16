@@ -1,3 +1,7 @@
+# affiliation win REV-80%
+    https://sshortly1.com/drUWsv
+
+
 # SportingbetAPI-2.0
     Your API system for gambling.
 
