@@ -14,30 +14,30 @@
 
 # Games
 
-Esses são os games disponíveis no momento, se quando for realizar a compra o game desejado não estiver na lista de compras, estre em contato direto comigo.
+    Esses são os games disponíveis no momento, se quando for realizar a compra o game desejado não estiver na lista de compras, estre em contato direto comigo.
 
-These are the games available at the moment. If the game you want is not on the purchase list when you're ready to buy, please contact me directly.
-
-
-🎮   EVOLUTION  🎮
-✅ Bacbo
-✅ Football Studio
-✅ Football Studio Dice
-✅ Fan Tan
-✅ American Roulette
-✅ XXXTreme Lightning Roulette
-✅ Roleta Relampago
-✅ Roulette Live
-✅ Speed Roulett
-
-🎮   PRAGMATIC   🎮
-✅ Dragon Tiger
-✅ Mega Wheel
-✅ Spaceman
-✅ Auto-Roulette 1
-🎮   PLAYTECH   🎮
-✅ Roleta Brasileira
+    These are the games available at the moment. If the game you want is not on the purchase list when you're ready to buy, please contact me directly.
 
 
+    🎮   EVOLUTION  🎮
+    ✅ Bacbo
+    ✅ Football Studio
+    ✅ Football Studio Dice
+    ✅ Fan Tan
+    ✅ American Roulette
+    ✅ XXXTreme Lightning Roulette
+    ✅ Roleta Relampago
+    ✅ Roulette Live
+    ✅ Speed Roulett
+    
+    🎮   PRAGMATIC   🎮
+    ✅ Dragon Tiger
+    ✅ Mega Wheel
+    ✅ Spaceman
+    ✅ Auto-Roulette 1
+    🎮   PLAYTECH   🎮
+    ✅ Roleta Brasileira
+    
+    
 # Contact
     https://t.me/mscodex
