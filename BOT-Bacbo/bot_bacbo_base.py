@@ -148,14 +148,14 @@ class BOT_Bacbo:
             self.martingale('LOSS')
             return
         
-        if results == 'V' and self.direction_color == '🔴':
+        elif results == 'V' and self.direction_color == '🔴':
             self.martingale('WIN')
             return
         elif results == 'V' and self.direction_color == '🔵':
             self.martingale('LOSS')
             return
 
-        if results == 'A' and self.direction_color == '🔵':
+        elif results == 'A' and self.direction_color == '🔵':
             self.martingale('WIN')
             return
         elif results == 'A' and self.direction_color == '🔴':
