@@ -215,7 +215,7 @@ class BOT_Roleta:
             return
 
     def estrategy(self, results):
-        print(self.hora, results[0:20])
+        print(datetime.datetime.now().strftime("%H:%M/%Y"), self.gam)
 
         if self.analisar == False:
             self.check_results(results[0])
@@ -263,7 +263,6 @@ class BOT_Roleta:
         while True:
             try:
                 self.date_now = str(datetime.datetime.now().strftime("%d/%m/%Y"))
-                self.hora = str(datetime.datetime.now().strftime("%H:%M"))
 
                 results = []
                 time.sleep(1)

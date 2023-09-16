@@ -142,7 +142,7 @@ class BOT_Spaceman:
             return
 
     def estrategy(self, results):
-        print(self.hora, self.game, results[0:10])
+        print(datetime.datetime.now().strftime("%H:%M/%Y"), self.gam)
 
         if self.analisar == False:
             self.check_results(results[0])
@@ -209,7 +209,6 @@ class BOT_Spaceman:
         while True:
             try:
                 self.date_now = str(datetime.datetime.now().strftime("%d/%m/%Y"))
-                self.hora = str(datetime.datetime.now().strftime("%H:%M"))
 
                 response = requests.get(self.url_API)
                 json_data = json.loads(response.text)
